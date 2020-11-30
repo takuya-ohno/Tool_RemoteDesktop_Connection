@@ -14,7 +14,7 @@
 
 
 ## 文責
-Takuya-Ohtno
+Takuya-Ohno
 
 
 ## 参考文献
